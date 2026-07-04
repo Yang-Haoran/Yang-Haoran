@@ -19,6 +19,6 @@ I am currently preparing for an IT Ausbildung in Germany and building a stronger
 
 ## Contact
 
-- Email: <a href="mailto:y875175002@gmail.com">y875175002@gmail.com</a>
+- Email: <a href="mailto:haoran.yang.hr@gmail.com">haoran.yang.hr@gmail.com</a>
 
 Thanks for visiting my profile.
