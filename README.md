@@ -1,9 +1,24 @@
-- 👋 Hi, I’m Yang-Haoran, study in shanghai，China
-- 👀 I’m interested in java python and machning learning, opencv
-- 🌱 I’m currently learning javaweb and machning learning
-- 📫 How to reach me: y875175002@gmail.com
-<!---
-Yang-Haoran/Yang-Haoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Hello,world
+# Hi, I'm Haoran Yang
+
+I am currently preparing for an IT Ausbildung in Germany and building a stronger foundation in software development.
+
+## About Me
+
+- Looking for an Ausbildung position in IT / software development
+- Interested in Java, Python, web development, machine learning, and OpenCV
+- Currently improving my German, programming skills, and practical project experience
+- Open to learning opportunities, collaboration, and entry-level IT projects
+
+## Tech Interests
+
+- Java and backend development
+- Python scripting and data-related projects
+- Web development fundamentals
+- Computer vision with OpenCV
+- Machine learning basics
+
+## Contact
+
+- Email: <a href="mailto:y875175002@gmail.com">y875175002@gmail.com</a>
+
+Thanks for visiting my profile.
