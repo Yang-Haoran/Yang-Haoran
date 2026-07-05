@@ -17,6 +17,12 @@ I am currently preparing for an IT Ausbildung in Germany and building a stronger
 - Computer vision with OpenCV
 - Machine learning basics
 
+## Selected Projects
+
+- [java-ssm-book-demo](https://github.com/Yang-Haoran/java-ssm-book-demo): a Java SSM book management CRUD demo with Spring MVC, MyBatis, JSP, and MySQL
+- [java-jdbc-practice](https://github.com/Yang-Haoran/java-jdbc-practice): Java JDBC practice code and database learning notes
+- [opencv](https://github.com/Yang-Haoran/opencv): OpenCV practice notebook with Python image and video examples
+
 ## Contact
 
 - Email: <a href="mailto:haoran.yang.hr@gmail.com">haoran.yang.hr@gmail.com</a>
